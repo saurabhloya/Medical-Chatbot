@@ -1,5 +1,7 @@
 # Medical-Chatbot
 
+## Installation
+
 ### Setup Instructions
 
 1. **Clone the Repository**:
