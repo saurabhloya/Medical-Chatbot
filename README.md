@@ -1,5 +1,14 @@
 # Medical-Chatbot
 
+Medical Chatbot is an AI-driven tool using Llama 2, Pinecone, LangChain, and Flask to provide quick and accurate health-related information through an intuitive interface.
+
+## Features
+
+- **AI-Powered Medical Assistance**: Utilizes Llama 2 for sophisticated natural language understanding and response generation.
+- **Efficient Information Retrieval**: Pinecone vector database ensures fast and accurate access to a vast repository of medical knowledge.
+- **Flexible Integration**: LangChain framework allows seamless integration with various data sources and APIs, enhancing the bot's capabilities.
+- **User-Friendly Interface**: Built with Flask, the UI offers a clean and straightforward user experience, making it easy for users to get the information they need.
+
 ## Setup Instructions
 
 1. **Clone the Repository**:
