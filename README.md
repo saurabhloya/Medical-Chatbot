@@ -26,7 +26,7 @@
     ```
 
 
-5. **Download the Llama 2 model**:
+5. **Download the Llama 2**:
 
     ```ini
     ## Download the Llama 2 Model:
@@ -34,6 +34,9 @@
 
     ## From the following link:
     https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+    ## Create model directory
+    After dowloading the above model, Create a `model` directory in the root directory and save your dowloaded llama 2 model
     ```
 
 6. **Run the following command**:
