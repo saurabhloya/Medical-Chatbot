@@ -1,6 +1,6 @@
 # Medical-Chatbot
 
-Medical Chatbot is an AI-driven tool using Llama 2, Pinecone, LangChain, and Flask to provide quick and accurate health-related information through an intuitive interface.
+Medical Chatbot is an AI-driven tool using LLaMA 2, Pinecone, LangChain, and Flask to provide quick and accurate health-related information to enhance patient engagement.
 
 ## Features
 
